@@ -1,4 +1,4 @@
-# Explanation of the program:
+# Explanation of the program
 ### Data generation: 
 We create artificial data, where the area (independent variable) varies, and the price (dependent variable) is calculated according to the formula  y=4+3X+noise, where noise is random deviation.
 ### Creating a DataFrame: 
